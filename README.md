@@ -1,2 +1,5 @@
-# Data-Visualization
-School lab for understanding how to make data visualizations to assist in describing complex information to a non-technical audience.
+# Advanced Configuration
+Use props.conf and transforms.conf to anonymize data. Audit Splunk environment through searches
+
+Abstract
+This lab has 2 parts.  The first part is to use Splunk to transform data that has credit card numbers in it into anonymized data.  We can accomplish this via the props.conf and transforms.conf configuration files. The second part is analyzing 
